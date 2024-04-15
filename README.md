@@ -1,4 +1,4 @@
-# Kicks Store
+# The Kicks Store
 
 Welcome to Kicks Store, your go-to destination for all things footwear! the web platform offers a seamless shopping experience with a beautiful landing page and interactive features. Whether you're looking for the latest sneaker drops or timeless classics, I've got you covered.
 
