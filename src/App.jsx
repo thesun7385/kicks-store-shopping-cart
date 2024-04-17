@@ -12,7 +12,13 @@ function App() {
       <Header />
       <Home />
       <Shop>
-        <div className="flex flex-wrap justify-center">
+        <div
+          className="p-3 grid  gap-x-8 gap-y-4                
+                      sm:grid-cols-1 
+                      md:grid-cols-2                    
+                      lg:grid-cols-3
+                      "
+        >
           {PRODUCTS.map((product) => (
             <li key={product.id}>
               <Product {...product} />
